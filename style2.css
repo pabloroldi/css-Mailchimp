@@ -1,7 +1,14 @@
 div{
+    
     max-width: 150px;
 }
 .div2{
+    display: inline-block;
+    max-width: 470px;
+}
+
+.div3{
+    
     max-width: 470px;
 }
 

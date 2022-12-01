@@ -1,10 +1,14 @@
-div{
-    
-    max-width: 150px;
+.divpadre{
+    max-width: 50%;
 }
-.div2{
-    display: inline-block;
-    max-width: 470px;
+.img{
+    float: left;
+}
+
+.div1{
+    float: right;
+    max-width: 500px;
+    width: 470px;
 }
 
 .div3{
@@ -15,4 +19,24 @@ div{
 img{
     height: 150px;
     width: 150px;
+}
+.divPadre2{
+    height: 50px;
+    width: 100%;
+}
+input{
+    height: 35px;
+    width: 470px;
+}
+.button{
+    height: 35px;
+    width: 25%;
+}
+.checkbox{
+    height: 20px;
+    width: 20px;  
+}
+.p2{
+    float: right;
+    width: 300px;
 }

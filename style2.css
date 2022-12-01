@@ -21,7 +21,8 @@ img{
     width: 150px;
 }
 .divPadre2{
-    height: 50px;
+    display: flex;
+    height: 70px;
     width: 100%;
 }
 input{
@@ -39,4 +40,7 @@ input{
 .p2{
     float: right;
     width: 300px;
+}
+.li{
+    display: flex;
 }

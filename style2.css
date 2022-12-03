@@ -3,6 +3,22 @@
 }
 .img{
     float: left;
+    margin: 40px;
+}
+
+h1{
+}
+
+a{
+    color: rgb(0, 140, 255);
+}
+.login{ 
+    text-decoration: none;
+}
+
+span{
+    color: rgb(0, 140, 255);
+    float: right;
 }
 
 .div1{
@@ -22,25 +38,37 @@ img{
 }
 .divPadre2{
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
     height: 70px;
     width: 100%;
 }
+
 input{
     height: 35px;
-    width: 470px;
+    width: 462px;
 }
 .button{
-    height: 35px;
-    width: 25%;
+    height: 40px;
+    width: 120px;
+  
 }
 .checkbox{
-    height: 20px;
-    width: 20px;  
+    height: 23px;
+    width: 23px;  
+    margin-left: 22px;
 }
 .p2{
     float: right;
-    width: 300px;
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 310px;
+    
 }
 .li{
     display: flex;
+}
+
+.li2{
+    margin-left: 20px;
 }
